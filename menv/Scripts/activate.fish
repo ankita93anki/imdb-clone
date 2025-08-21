@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV 'C:\full-20230527T055859Z-001\django-rest-framework\drf-project\menv'
+set -gx VIRTUAL_ENV 'D:\full-20230527T055859Z-001\django-rest-framework\drf-project\menv'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"Scripts $PATH

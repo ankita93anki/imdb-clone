@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set "VIRTUAL_ENV=C:\full-20230527T055859Z-001\django-rest-framework\drf-project\menv"
+set "VIRTUAL_ENV=D:\full-20230527T055859Z-001\django-rest-framework\drf-project\menv"
 
 if not defined PROMPT set PROMPT=$P$G
 
